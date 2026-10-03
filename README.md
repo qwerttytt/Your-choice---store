@@ -1,7 +1,7 @@
 # Your-choice---store
 ## Team 
 - Maximov Nikita
- Tarasov Ruslan
+- Tarasov Ruslan
 ## Steak 
 - C#
 - MySQL
